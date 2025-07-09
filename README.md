@@ -13,7 +13,7 @@ A simple and responsive website that showcases a mobile phone and its features, 
 - JavaScript
 
 ## 🌐 Live Link
-(Coming soon — will update after GitHub Pages)
+[Click here to view the website](https://buildwithvanshika.github.io/Mobile-website/)
 
 ## 📸 Screenshot
- add a screenshot here later.
+ 
