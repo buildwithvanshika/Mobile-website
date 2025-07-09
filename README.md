@@ -17,3 +17,5 @@ A simple and responsive website that showcases a mobile phone and its features, 
 
 ## 📸 Screenshot
  
+
+##“Note: This project is currently optimized for desktop view. Mobile responsiveness will be added in future updates.”
